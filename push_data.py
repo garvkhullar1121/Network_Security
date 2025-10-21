@@ -46,7 +46,7 @@ class NetworkDataExtract:
 
 if __name__ == "__main__":
     FILE_PATH = r"Network_data\phisingData.csv"
-    DATABASE = "Garv"
+    DATABASE = "Garv_Network_Project"
     COLLECTION = "NetworkData"
     
     network_obj = NetworkDataExtract()
