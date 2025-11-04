@@ -1,7 +1,0 @@
-[2025-11-02 12:01:13,131] 14 root-INFO Initiate the data ingestion
-[2025-11-02 12:01:13,484] 40 root-INFO Connecting to DB: Garv_Network_Project, Collection: NetworkData
-[2025-11-02 12:01:20,774] 45 root-INFO Data fetched from DB. Shape: (11055, 32)
-[2025-11-02 12:01:21,801] 76 root-INFO Data saved to feature store at: Artifacts\11_02_2025_12_00_53\data_ingestion\feature_store\phisingData.csv
-[2025-11-02 12:01:21,826] 98 root-INFO Performed train-test split
-[2025-11-02 12:01:22,856] 108 root-INFO Train and test files saved successfully
-[2025-11-02 12:01:22,858] 133 root-INFO Data ingestion pipeline completed successfully.
